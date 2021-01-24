@@ -1,0 +1,41 @@
+.container{
+    
+    border: 2px solid;
+    align-content: center;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+.sec_container1{
+    border: 2px solid;
+    display: flex;
+    flex-direction: column;
+    background-color: blueviolet;
+    padding-block-end: 10px;
+    justify-content: space-around;
+    
+    
+    ;
+}
+.sec_container1 div{
+    padding: 10px;
+    border: 1px;
+    
+
+}
+*{
+    margin: 0px;
+}
+.btn1{
+    display: flex;
+    padding: 10px;
+    border: 5px solid;
+    background-color:skyblue;   
+}
+.btn2{
+    display: flex;
+    border: 5px solid black;
+    padding: 10px;
+    
+    background-color: red;
+}
